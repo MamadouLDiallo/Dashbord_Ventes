@@ -38,8 +38,15 @@ Analyser les performances commerciales et suivre l’évolution des ventes afin 
 ## 👨‍💻 Auteur
 
 **Mamadou Lamarana Diallo**  
-🎓 Master en Statistique et Informatique Décisionnelle  
+🎓 Diplômé d’un Master en Statistique et Informatique Décisionnelle  
 
+### 🔍 Domaines d’intérêt
+
+* Analyse de données
+* Business Intelligence
+* Machine Learning
+* Visualisation de données
+  
 ### 🔗 Me contacter
-- LinkedIn : (ton lien)  
-- GitHub : (ton lien)
+- LinkedIn : https://www.linkedin.com/in/mamadou-lamarana-diallo-937430274/  
+- GitHub : https://github.com/MamadouLDiallo
