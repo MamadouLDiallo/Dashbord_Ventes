@@ -29,7 +29,7 @@ Analyser les performances commerciales et suivre l’évolution des ventes afin 
 
 ---
 
-<img width="1113" height="647" alt="image" src="eee" />
+<img width="1113" height="647" alt="image" src="https://github.com/MamadouLDiallo/Dashbord_Ventes/blob/main/Dashbord_Ventes.jpg" />
 
 ---
 
