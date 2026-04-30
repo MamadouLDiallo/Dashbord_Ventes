@@ -1,6 +1,7 @@
 # 📊 Rapport des Ventes – Dashboard
 
 ## 🎯 Objectif
+
 Analyser les performances commerciales et suivre l’évolution des ventes afin de faciliter la prise de décision.
 
 ## 📊 KPI principaux
@@ -20,17 +21,15 @@ Analyser les performances commerciales et suivre l’évolution des ventes afin 
 - Analyse des tendances commerciales  
 
 ## 🧠 Outils
-- Power BI  
 
+- Power BI (visualisation et modélisation)
 ---
 
 👉 Ce dashboard met en évidence la capacité de Power BI à transformer des données de vente en insights exploitables pour optimiser la prise de décision commerciale.
 
 ---
 
-## 📸 Aperçu
-
-![Dashboard](./dashboard.png)
+<img width="1113" height="647" alt="image" src="eee" />
 
 ---
 
