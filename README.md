@@ -1,5 +1,7 @@
 # 📊 Rapport des Ventes – Dashboard
 
+Ce projet propose un tableau de bord interactif permettant d’analyser les performances des ventes et d’identifier les tendances clés pour une meilleure prise de décision commerciale.
+
 ## 🎯 Objectif
 
 Analyser les performances commerciales et suivre l’évolution des ventes afin de faciliter la prise de décision.
